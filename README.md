@@ -1,2 +1,2 @@
 # redisTutorials
-Repo for keeping my exploration uth Redis
+Repo for keeping my exploration with Redis
